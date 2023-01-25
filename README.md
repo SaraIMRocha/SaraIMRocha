@@ -1,8 +1,8 @@
 <p align="center">
-<br>
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Hey+there+it's+Sara"></a>
+<img src="https://raw.githubusercontent.com/SaraIMRocha/SaraIMRocha/main/img/temp.png" width="700px">
+
 <p align="center">
-Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liking the experience so far both as a pisciner and as a student. You can check my projects on my repositories all related to 42 (for now) and evetually some of my own (i hope).
+Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liking the experience so far both as a pisciner and as a student. You can check my projects on my repositories all related to 42 (for now) and eventually some of my own (i hope).
 
 ---
 
