@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Hey+there+it's+Sara"></a>
+</p>
+Hey, I'm Sara Rocha,22y old, and I'm a student at 42 in Lisbon. I'm really liking the experience so far both as a pisciner and as a student. You can check my projects on my repositories all related to 42 (for now) and evetually some of my own (i hope).
 
-<!--
-**SaraIMRocha/SaraIMRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+| [![sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraIMRocha&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/SaraIMRocha?tab=repositories) | [![sara's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraIMRocha&layout=compact&hide_border=true&theme=prussian)](https://github.com/SaraIMRocha?tab=repositories) |
+|:-:|:-:|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img alt="Sara's visitors" src="https://komarev.com/ghpvc/?username=SaraIMRocha&color=blue&style=flat&label=visitors" />
+<img alt="Sara's followers" src="https://img.shields.io/github/followers/SaraIMRocha?color=blue" />
+<img alt="Sara's stars" src="https://img.shields.io/github/stars/SaraIMRocha?color=blue" />
+</p>
