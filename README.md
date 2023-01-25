@@ -4,7 +4,6 @@
 </p>
 Hey, I'm Sara Rocha,22y old, and I'm a student at 42 in Lisbon. I'm really liking the experience so far both as a pisciner and as a student. You can check my projects on my repositories all related to 42 (for now) and evetually some of my own (i hope).
 
-<p align="center">
 | [![sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraIMRocha&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/SaraIMRocha?tab=repositories) | [![sara's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraIMRocha&layout=compact&hide_border=true&theme=prussian)](https://github.com/SaraIMRocha?tab=repositories) |
 |:-:|:-:|
 
