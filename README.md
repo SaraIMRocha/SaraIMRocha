@@ -10,11 +10,6 @@ Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liki
 <img src="https://badge42.vercel.app/api/v2/cldc0ngl400160fmg25hnkkdb/stats?cursusId=21&coalitionId=112"](https://github.com/JaeSeoKim/badge42)
 </div>
 
----
-
-| [![sara's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraIMRocha&layout=compact&hide_border=true&theme=prussian)](https://github.com/SaraIMRocha?tab=repositories) | [![sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraIMRocha&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/SaraIMRocha?tab=repositories) |
-|:-:|:-:|
-
 ---  
   
 <p align="center">
