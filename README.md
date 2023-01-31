@@ -18,14 +18,14 @@ Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liki
 
 <div align="center">
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldc0ngl400160fmg25hnkkdb/stats?cursusId=21&coalitionId=112" alt="samarque's 42 stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=SaraIMRocha&show_icons=true&theme=tokyonight"](https://github.com/SaraIMRocha/github-readme-stats)/>
   
 </div>
 
 ---  
   
 <p align="center">
-<img alt="Sara's visitors" src="https://komarev.com/ghpvc/?username=SaraIMRocha&color=blue&style=flat&label=visitors" />
-<img alt="Sara's followers" src="https://img.shields.io/github/followers/SaraIMRocha?color=blue" />
-<img alt="Sara's stars" src="https://img.shields.io/github/stars/SaraIMRocha?color=blue" />
+<img alt="Sara's visitors" src="https://komarev.com/ghpvc/?username=SaraIMRocha&color=red&style=flat&label=visitors" />
+<img alt="Sara's followers" src="https://img.shields.io/github/followers/SaraIMRocha?color=red" />
+<img alt="Sara's stars" src="https://img.shields.io/github/stars/SaraIMRocha?color=red" />
 </p>
