@@ -19,7 +19,7 @@ Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liki
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SaraIMRocha&show_icons=true&theme=tokyonight"](https://github.com/SaraIMRocha/github-readme-stats)/>
-  
+
 </div>
 
 ---  
