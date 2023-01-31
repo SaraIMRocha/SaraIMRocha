@@ -14,7 +14,7 @@ Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liki
 
 ---
 
-<h1 style="text-align:center;">Github Stats</h1>
+<h1 style="text-align:left;">Github Stats</h1>
 
 ---
 
