@@ -4,6 +4,8 @@
 <p align="center">
 Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liking the experience so far both as a former pisciner and as a student. You can check my projects on my repositories all related to 42 (for now) and eventually some of my own (i hope).
 
+---
+
 <h1 style="text-align:center;">42 School Progress</h1>
 
 <div align="center">
