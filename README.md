@@ -9,7 +9,7 @@ Hey, I'm Sara Rocha, 22y old, and I'm a student at 42 in Lisbon. I'm really liki
 <h1 style="text-align:center;">42 School Progress</h1>
 
 <div align="center">
-<img src="https://badge42.vercel.app/api/v2/cld7udkhj01910fl5tom622dy/stats?cursusId=21&coalitionId=112"](https://github.com/JaeSeoKim/badge42)
+<img src="https://badge42.vercel.app/api/v2/cld7udkhj01910fl5tom622dy/stats?cursusId=21&coalitionId=112"]
 </div>
 
 ---
